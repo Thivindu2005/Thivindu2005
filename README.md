@@ -21,6 +21,7 @@ Building Skills in Software & Web Development
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
+
 - 🔭 I’m currently working on **Personal projects to improve my frontend and programming fundamentals**
 
 - 🌱 I’m currently learning **Programming languages, web development concepts, and software development fundamentals**
