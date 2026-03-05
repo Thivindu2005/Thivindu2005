@@ -33,7 +33,9 @@ Building Skills in Software & Web Development
 
 - 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
 
-- 📫 How to reach me **thivinduthenuja2005@gmail.com**
+- 📫 How to reach me     <a href="mailto:thivinduthenuja2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 - ⚡ Fun fact **I prefer building skills quietly and consistently**
 
@@ -57,3 +59,4 @@ Building Skills in Software & Web Development
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div> </a> </p>
+
