@@ -29,11 +29,12 @@ Building Skills in Software & Web Development
 
 - 🤝 I’m looking for help with **Improving real-world project structure and backend integration**
 
-- 👨‍💻 All of my projects are available at https://github.com/Thivindu2005
+- 👨‍💻 All of my projects are available at  [GitHub](https://github.com/Thivindu2005)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 - 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
 
-- 📫 How to reach me     <a href="mailto:thivinduthenuja2005@gmail.com">
+- 📫 How to reach me [Gmail](https://thivinduthenuja2005@gmail.com)   <a href="mailto:thivinduthenuja2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
@@ -41,7 +42,7 @@ Building Skills in Software & Web Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/thivindu-thenuja-53400a3aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thivindu-thenuja-53400a3aa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thivindu thenuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thivindu thenuja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
