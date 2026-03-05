@@ -62,3 +62,9 @@ Building Skills in Software & Web Development
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div> </a> </p>
 
+ <h3 align="left">Contribution activity:</h3>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
