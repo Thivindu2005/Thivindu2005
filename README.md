@@ -1,4 +1,4 @@
-<h1 align="center">Thivindu Thenuja 💻✨
+<h1 align="center"><a target="_top" href="https://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2026/03/06/flamingtext_com_1772775296_899607184.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
   
 Building Skills in Software & Web Development
 </h1>
@@ -70,3 +70,4 @@ Building Skills in Software & Web Development
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
