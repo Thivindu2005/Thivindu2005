@@ -41,7 +41,7 @@ Building Skills in Software & Web Development
 <h3 align="left">Connect with me:</h3>
 <!-- Social Media -->
 <p align="center">
-  <a href="www.linkedin.com/in/thivindu-thenuja-53400a3aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/thivindu-thenuja-53400a3aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://youtube.com/@Thivindu_Thenuja"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://facebook.com/thivindu.thenuja.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://instagram.com/_thiviii_s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
