@@ -30,20 +30,22 @@ Building Skills in Software & Web Development
 
 - 🤝 I’m looking for help with **Improving real-world project structure and backend integration**
 
-- 👨‍💻 All of my projects are available at  [GitHub](https://github.com/Thivindu2005)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+- 👨‍💻 All of my projects are available at : <p align="down"> <a href="https://github.com/Thivindu2005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
 
 - 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
 
-- 📫 How to reach me [Gmail](https://thivinduthenuja2005@gmail.com)   <a href="mailto:thivinduthenuja2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+- 📫 How to reach me : <p align="down"> <a href="mailto:thenujathivindu2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
 - ⚡ Fun fact **I prefer building skills quietly and consistently**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thivindu thenuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thivindu thenuja" height="30" width="40" /></a>
+<!-- Social Media -->
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/thivindu-thenuja-53400a3aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@Thivindu_Thenuja"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://facebook.com/Thivindu Thenuja"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/_thiviii_s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://tiktok.com/@_thiviii_s"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
